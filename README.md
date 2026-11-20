@@ -37,25 +37,25 @@ Progress: "0 / 90 Days"
 
 📚 Topics
 
-- [x] HTML document structure
-- [x] HTML tags
-- [x] Attributes
-- [x] Headings
-- [x] Paragraph
-- [x] Comments
+- [ ] HTML document structure
+- [ ] HTML tags
+- [ ] Attributes
+- [ ] Headings
+- [ ] Paragraph
+- [ ] Comments
 
 💻 Coding Tasks
 
-- [x] Create "index.html"
-- [x] Create personal introduction page
-- [x] Add name
-- [x] Add profile image
-- [x] Add About section
+- [ ] Create "index.html"
+- [ ] Create personal introduction page
+- [ ] Add name
+- [ ] Add profile image
+- [ ] Add About section
 
 🧠 Practice
 
-- [x] Write HTML without looking at tutorial
-- [x] Rebuild the page from memory
+- [ ] Write HTML without looking at tutorial
+- [ ] Rebuild the page from memory
 
 📝 Notes
 
